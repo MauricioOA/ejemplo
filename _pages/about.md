@@ -31,7 +31,7 @@ I'm Mauricio, an engineer passionate about innovation, robotics, and technology 
 
 Throughout my academic and professional career, I've had the opportunity to participate in exciting projects, including developing an Autonomous Guided Vehicle (AGV) and competing internationally in events like the Human Exploration Rover Challenge. These experiences have not only strengthened my technical skills but also reinforced my teamwork abilities and creative problem-solving.
 
-Beyond technology, I have a deep interest in physics, a discipline that continuously fuels my curiosity and understanding of the world around me. I've shared this passion through various talks and presentations, always striving to inspire others and convey enthusiasm for continuous learning.
+Beyond technology, I have a deep interest in physics, a discipline that continuously fuels my curiosity and understanding of the world around me. I've shared this passion through various talks and presentations.
 
 
 
