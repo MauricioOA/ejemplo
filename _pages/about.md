@@ -27,8 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Mauricio, an engineer passionate about innovation, robotics, and technology in general. My journey has been driven by a continuous desire to explore new solutions and actively contribute to technological advancement.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Throughout my academic and professional career, I've had the opportunity to participate in exciting projects, including developing an Autonomous Guided Vehicle (AGV) and competing internationally in events like the Human Exploration Rover Challenge. These experiences have not only strengthened my technical skills but also reinforced my teamwork abilities and creative problem-solving.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond technology, I have a deep interest in physics, a discipline that continuously fuels my curiosity and understanding of the world around me. I've shared this passion through various talks and presentations, always striving to inspire others and convey enthusiasm for continuous learning.
+
+Outside the professional sphere, CrossFit plays a significant role in my life, representing my commitment to discipline, consistency, and personal growth.
+
+I firmly believe that continuous learning is key to both professional and personal development, which is why I'm always seeking new knowledge and challenges that allow me to become better each day.
+
