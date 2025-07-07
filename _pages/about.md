@@ -33,5 +33,7 @@ Throughout my academic and professional career, I've had the opportunity to part
 
 Beyond technology, I have a deep interest in physics, a discipline that continuously fuels my curiosity and understanding of the world around me. I've shared this passion through various talks and presentations.
 
+Outside the professional sphere, CrossFit plays a significant role in my life, representing my commitment to discipline, consistency, and personal growth.
+
 
 
